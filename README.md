@@ -4,71 +4,68 @@
 
 # Zenyn Group 🚀
 
-**Zenyn Group** é uma empresa de desenvolvimento de software em ascensão, especializada em soluções inovadoras para negócios modernos.
+**Zenyn Group** is a rising software development company, specialized in innovative solutions for modern businesses.
 
 ---
 
-## 📌 Índice
+## 📌 Table of Contents
 
-- [Sobre](#sobre)  
-- [Destaques](#destaques)  
-- [Tecnologias](#tecnologias)  
-- [Como Começar](#como-começar)  
-- [Exemplos de Uso](#exemplos-de-uso)  
-- [Contribuindo](#contribuindo)  
-- [Equipe](#equipe)  
-- [Licença & Contato](#licença--contato)
-
----
-
-## Sobre
-
-- **Missão:** entregar software de alta qualidade, focado na experiência do usuário e na eficiência operacional.  
-- **Visão:** tornar-se referência em tecnologia e inovação, construindo parcerias duradouras com clientes.
+- [About](#about)  
+- [Highlights](#highlights)  
+- [Technologies](#technologies)  
+- [Getting Started](#getting-started)  
+- [Usage Examples](#usage-examples)  
+- [Contributing](#contributing)  
+- [Team](#team)  
+- [License & Contact](#license--contact)
 
 ---
 
-## 🏆 Destaques
+## About
 
-- Soluções customizadas para web, mobile e backend.  
-- Arquitetura escalável e robusta.  
-- Integração com APIs modernas e multiplataforma.  
-- Metodologias ágeis (Scrum/Kanban).
+- **Mission:** Deliver high-quality software focused on user experience and operational efficiency.  
+- **Vision:** Become a reference in technology and innovation, building long-lasting partnerships with clients.
 
 ---
 
-## 🧰 Tecnologias
+## 🏆 Highlights
 
-- **Front-end:** Next.js, React.js   
-- **Back-end:** Java Springboot, Python Django  
-- **Infraestrutura:** Docker, AWS
-- **Banco de Dados:** MySQL, PostgreSQL
-
----
-
-## 👥 Integrantes
-
-- **Victor Cordeiro** – Fundador & Desenvolvedor Fullstack  
-  🧠 Líder técnico da equipe, responsável pelo andamento de projetos e pelas principais decisões de tecnologia, em parceria com Matheus.  
-
-- **Matheus Freire** – Co-Fundador, Designer & Social Media  
-  🎨 Responsável por design, presença digital e estratégias de marketing. Atua também na gestão de projetos e decisões importantes.  
-
-- **Cleberson Assunção** – Desenvolvedor Back-end (Java Spring Boot)  
-  ⚙️ Especialista em Backend, mas também com conhecimentos em Machine Learning.  
-
-- **Raimundo Medeiros** – Desenvolvedor Front-end (Next.js & React)  
-  💻 Focado no desenvolvimento front-end, também possui experiência em back-end, contribuindo para soluções completas.
-  
----
+- Customized solutions for web, mobile, and backend systems.  
+- Scalable and robust architecture.  
+- Integration with modern, cross-platform APIs.  
+- Agile methodologies (Scrum/Kanban).
 
 ---
 
-## 📬 Contato
+## 🧰 Technologies
 
-Entre em contato com a equipe **Zenyn Group**:
+- **Front-end:** Next.js, React.js  
+- **Back-end:** Java Spring Boot, Python Django  
+- **Infrastructure:** Docker, AWS  
+- **Database:** MySQL, PostgreSQL  
 
-- ✉️ **E-mail:** [zenyngroup@gmail.com](mailto:zenyngroup@gmail.com)  
-- 🌐 **Website:** [zenyngroup.com](https://zenyngroup.com)  (ainda não disponível)
-- 💼 **LinkedIn:** [Zenyn Group no LinkedIn](https://linkedin.com/company/zenyn-group)  (ainda não disponível)
+---
 
+## 👥 Team
+
+- **Victor Cordeiro** – Founder & Fullstack Developer  
+  🧠 Technical leader of the team, responsible for project management and key technology decisions, in partnership with Matheus.  
+
+- **Matheus Freire** – Co-Founder, Designer & Social Media Manager  
+  🎨 Responsible for design, digital presence, and marketing strategies. Also involved in project management and critical decisions.  
+
+- **Cleberson Assunção** – Back-end Developer (Java Spring Boot)  
+  ⚙️ Backend specialist, also experienced in Machine Learning.  
+
+- **Raimundo Medeiros** – Front-end Developer (Next.js & React)  
+  💻 Focused on front-end development, also contributes to backend, delivering complete solutions.  
+
+---
+
+## 📬 Contact
+
+Get in touch with the **Zenyn Group** team:
+
+- ✉️ **Email:** [zenyngroup@gmail.com](mailto:zenyngroup@gmail.com)  
+- 🌐 **Website:** [zenyngroup.com](https://zenyngroup.com)  (coming soon)  
+- 💼 **LinkedIn:** [Zenyn Group on LinkedIn](https://linkedin.com/company/zenyn-group)  (coming soon)  
