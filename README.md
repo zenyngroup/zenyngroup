@@ -39,11 +39,10 @@
 
 ## 🧰 Tecnologias
 
-- **Front-end:** React, Vue.js, Flutter  
-- **Back-end:** Node.js, Python (Django/Flask)  
-- **Infraestrutura:** Docker, Kubernetes, AWS, GCP  
-- **Banco de Dados:** PostgreSQL, MongoDB  
-- **CI/CD:** GitHub Actions, Jenkins
+- **Front-end:** Next.js, React.js   
+- **Back-end:** Java Springboot, Python Django  
+- **Infraestrutura:** Docker, AWS
+- **Banco de Dados:** MySQL, PostgreSQL
 
 ---
 
