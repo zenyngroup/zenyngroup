@@ -11,13 +11,10 @@
 ## 📌 Table of Contents
 
 - [About](#about)  
-- [Highlights](#highlights)  
-- [Technologies](#technologies)  
-- [Getting Started](#getting-started)  
-- [Usage Examples](#usage-examples)  
-- [Contributing](#contributing)  
-- [Team](#team)  
-- [License & Contact](#license--contact)
+- [🏆 Highlights](#-highlights)  
+- [🧰 Technologies](#-technologies)  
+- [👥 Team](#-team)  
+- [📬 Contact](#-contact)
 
 ---
 
