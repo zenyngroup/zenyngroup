@@ -62,9 +62,13 @@
   
 ---
 
-## 🚀 Como Começar
+---
 
-1. **Clone o repositório**  
-   ```bash
-   git clone https://github.com/ZenynGroup/awesome-project.git
-   cd awesome-project
+## 📬 Contato
+
+Entre em contato com a equipe **Zenyn Group**:
+
+- ✉️ **E-mail:** [zenyngroup@gmail.com](mailto:zenyngroup@gmail.com)  
+- 🌐 **Website:** [zenyngroup.com](https://zenyngroup.com)  (ainda não disponível)
+- 💼 **LinkedIn:** [Zenyn Group no LinkedIn](https://linkedin.com/company/zenyn-group)  (ainda não disponível)
+
