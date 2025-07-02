@@ -46,6 +46,22 @@
 
 ---
 
+## 👥 Integrantes
+
+- **Victor Cordeiro** – Fundador & Desenvolvedor Fullstack  
+  🧠 Líder técnico da equipe, responsável pelo andamento de projetos e pelas principais decisões de tecnologia, em parceria com Matheus.  
+
+- **Matheus Freire** – Co-Fundador, Designer & Social Media  
+  🎨 Responsável por design, presença digital e estratégias de marketing. Atua também na gestão de projetos e decisões importantes.  
+
+- **Cleberson Assunção** – Desenvolvedor Back-end (Java Spring Boot)  
+  ⚙️ Especialista em Backend, mas também com conhecimentos em Machine Learning.  
+
+- **Raimundo Medeiros** – Desenvolvedor Front-end (Next.js & React)  
+  💻 Focado no desenvolvimento front-end, também possui experiência em back-end, contribuindo para soluções completas.
+  
+---
+
 ## 🚀 Como Começar
 
 1. **Clone o repositório**  
