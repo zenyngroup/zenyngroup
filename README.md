@@ -1,16 +1,55 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/218884250?v=4" alt="Zenyn Group Logo" width="200" />
+</p>
 
-<!--
-**zenyngroup/zenyngroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Zenyn Group 🚀
 
-Here are some ideas to get you started:
+**Zenyn Group** é uma empresa de desenvolvimento de software em ascensão, especializada em soluções inovadoras para negócios modernos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Índice
+
+- [Sobre](#sobre)  
+- [Destaques](#destaques)  
+- [Tecnologias](#tecnologias)  
+- [Como Começar](#como-começar)  
+- [Exemplos de Uso](#exemplos-de-uso)  
+- [Contribuindo](#contribuindo)  
+- [Equipe](#equipe)  
+- [Licença & Contato](#licença--contato)
+
+---
+
+## Sobre
+
+- **Missão:** entregar software de alta qualidade, focado na experiência do usuário e na eficiência operacional.  
+- **Visão:** tornar-se referência em tecnologia e inovação, construindo parcerias duradouras com clientes.
+
+---
+
+## 🏆 Destaques
+
+- Soluções customizadas para web, mobile e backend.  
+- Arquitetura escalável e robusta.  
+- Integração com APIs modernas e multiplataforma.  
+- Metodologias ágeis (Scrum/Kanban).
+
+---
+
+## 🧰 Tecnologias
+
+- **Front-end:** React, Vue.js, Flutter  
+- **Back-end:** Node.js, Python (Django/Flask)  
+- **Infraestrutura:** Docker, Kubernetes, AWS, GCP  
+- **Banco de Dados:** PostgreSQL, MongoDB  
+- **CI/CD:** GitHub Actions, Jenkins
+
+---
+
+## 🚀 Como Começar
+
+1. **Clone o repositório**  
+   ```bash
+   git clone https://github.com/ZenynGroup/awesome-project.git
+   cd awesome-project
